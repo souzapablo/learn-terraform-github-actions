@@ -3,7 +3,7 @@
 This repository is used to learn and revisit **Terraform** concepts through hands-on examples. 
 
 ### Overview
-
+ 
 Terraform is an Infrastructure as Code (IaC) tool that allows you to define and manage infrastructure using configuration files.
 
 ### Common Commands
